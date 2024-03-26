@@ -1,7 +1,5 @@
-### Hi there 👋
+## Eae galera sv 👋 <img src="https://i.pinimg.com/originals/0c/64/9a/0c649a17ec1e5f5ca340248b4ef4e4be.gif" width="50px">
 
-<!--
-**arthurmfl/arthurmfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
