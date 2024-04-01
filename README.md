@@ -7,4 +7,4 @@ Um pouco sobre mim :)
 - Eu sonho é fazer uma familia e receber bem <img src="https://media1.giphy.com/media/xomJBq8tBfU02tvXfF/giphy.gif?cid=6c09b952u1fuckgefilbgueyrzqar64cg6qmfl8g1jilk569&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25px">
 - Estou no ensino medio <img src="https://png.pngtree.com/png-clipart/20230411/original/pngtree-the-books-png-image_9043538.png" width="23px">
 
-<img src="" width="150px">
+
