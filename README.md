@@ -1,4 +1,4 @@
-## Eae galera sv 👋 <img src="https://i.pinimg.com/originals/0c/64/9a/0c649a17ec1e5f5ca340248b4ef4e4be.gif" width="50px">
+## Eae galera sv 👋 <img src="https://i.pinimg.com/originals/0c/64/9a/0c649a17ec1e5f5ca340248b4ef4e4be.gif" width="70px">
 
 Um pouco sobre mim :)
 
